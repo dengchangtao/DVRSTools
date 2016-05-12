@@ -1,0 +1,322 @@
+[MIKE_DVRE]
+ 
+  [OPTION_PARAMETERS]
+      no_moving_bodies = 1
+      no_bodies_to_include = 1  // # of bodies that are included in the Haskind relations
+      Define_depth         = 0  //Should only be as an option, use 1 then
+      Scale_wave_height    = 0  //Should only be as an option, use 1 then	
+      Directional_line     = 0
+      Directional_fender   = 1
+   	[DEFINE_DEPTH]
+		flux_depth = 16.5
+	EndSect  // DEFINE_DEPTH
+   	[SCALE_WAVE_HEIGHT]
+		Scale_factor_H =  1
+   	EndSect  // DEFINE_DEPTH
+  EndSect  // OPTION_PARAMETERS
+ 
+  [TYPE_OF_CALCULATION]
+      TYPE_OF_CALC = 1 		// 0: no_sim, 1: waves, 2: decay
+      Time_step    = 0.25
+      Scale_factor = 1.0
+      Fluid_density = 1025.0
+      Number_of_time_steps = 2400
+      Time_lag = 0
+      Displacement = 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+		[VRE_FILE]
+         		FILE_NAME = |..\..\FVREF\01.vre|
+  		EndSect  // VRE_FILE
+      VCG = 0
+   EndSect  // TYPE_OF_CALCULATION
+ 
+  [TYPE_OF_WAVES]
+      TYPE_OF_IWF = 2
+      FILE_NAME = |X:/1. Projects/1. Current/SA (S2018) LNG Medium Term IPP/Working/Engineers/CMB/Ngqura/Models/BW/03/Runs/H05.9_T16_D153.bw - Result Files/Deterministic05b.dfs2|
+      FVRE_G_in_M21X = 7140.0
+      FVRE_G_in_M21Y = 5520.0
+      Angle_to_M21X = 112.0
+      Lower_frequency = 0.0
+      Upper_frequency = 0.5
+  EndSect  // TYPE_OF_WAVES
+ 
+  [WIND_FORCE]
+      Include_wind_force = 2	// 0: no external force, 1: include external force such as wind force, 2: Include Dynamic Updating
+      [WIND_SPEC]
+            type_of_wind = 2                 // 0: no wind, 1: constant in speed and direction, 2: varying speed and direction
+            wind_file = |../../../../../Data/Wind/WS30WD000.dfs0|
+            FILE_NAME = |..\..\Statics\Layout01_WindDragCurve.dfs0|
+      EndSect  // WIND_SPEC
+      [CURRENT_SPEC]
+            type_of_current = 0              // type of current. 0: no current, 1: constant in speed and direction, 2: varying speed and direction
+            normal_force_coeff = 1
+            viscosity = 1.004e-6
+            current_file = |..\..\..\..\..\..\Data\Current\C00.dfs0|
+            FVRE_G_in_M21X = 7140.0
+            FVRE_G_in_M21Y = 5520.0
+            Angle_to_M21X = 112.0
+            FILE_NAME = |.\Mooring_configuration_01_CurrentDragCurve.dfs0|
+      EndSect  // CURRENT_SPEC
+      [SLOW_DRIFT_SPEC]
+            type_of_slow_drift = 0
+      EndSect  // SLOW_DRIFT_SPEC
+  EndSect  // WIND_FORCE
+ 
+  [MOORING_SYSTEM]
+  INCLUDE_MOORING_SYSTEM = 1 	// 0: no mooring sys, 1: mooring sys
+  [LINES]
+   Number_lines = 24
+    [line_no_1]
+        Unstretch_length = 57.918111
+        Restoring_coeff = 257593.113668, 233904.575852, -37757.859452
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = 146.536, -0.645, 12.005
+        Attachment_quay = 165.762, 53.629, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_1
+    [line_no_2]
+        Unstretch_length = 56.206227
+        Restoring_coeff = 256934.238194, 242671.081814, -39475.219471
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = 146.079, 1.329, 12.005
+        Attachment_quay = 165.255, 53.756, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_2
+    [line_no_3]
+        Unstretch_length = 53.853168
+        Restoring_coeff = 255657.952495, 257494.65756, -42390.662225
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = 142.743, 5.343, 12.005
+        Attachment_quay = 164.793, 53.985, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_3
+    [line_no_4]
+        Unstretch_length = 45.398286
+        Restoring_coeff = 250907.336243, 301247.265057, -51036.298966
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = 137.415, 9.076, 12.005
+        Attachment_quay = 136.284, 53.84, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_4
+    [line_no_5]
+        Unstretch_length = 44.473458
+        Restoring_coeff = 249577.826944, 311815.186351, -53123.770942
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = 135.969, 9.908, 12.005
+        Attachment_quay = 135.786, 53.752, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_5
+    [line_no_6]
+        Unstretch_length = 41.942884
+        Restoring_coeff = 252178.274094, 290627.9597, -48936.532754
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = 129.855, 12.942, 12.005
+        Attachment_quay = 135.28, 53.793, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_6
+    [line_no_7]
+        Unstretch_length = 39.592298
+        Restoring_coeff = 247726.07217, 325813.055453, -55882.491954
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = 121.509, 16.46, 12.005
+        Attachment_quay = 111.542, 53.984, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_7
+    [line_no_8]
+        Unstretch_length = 38.834713
+        Restoring_coeff = 247500.461757, 327470.133467, -56208.429839
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = 120.189, 16.889, 12.005
+        Attachment_quay = 111.06, 53.81, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_8
+    [line_no_9]
+        Unstretch_length = 37.891799
+        Restoring_coeff = 247294.012072, 328978.202499, -56504.920004
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = 118.312, 17.507, 12.005
+        Attachment_quay = 110.564, 53.733, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_9
+    [line_no_10]
+        Unstretch_length = 50.06362
+        Restoring_coeff = 259443.540573, 196072.897593, -30433.597663
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = 95.403, 22.099, 12.005
+        Attachment_quay = 47.156, 31.877, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_10
+    [line_no_11]
+        Unstretch_length = 48.529619
+        Restoring_coeff = 259359.398054, 199252.839969, -31042.463064
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = 93.869, 22.231, 12.005
+        Attachment_quay = 47.102, 31.358, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_11
+    [line_no_12]
+        Unstretch_length = 48.3733
+        Restoring_coeff = 259298.220395, 201277.765989, -31430.924873
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = 93.622, 22.216, 12.005
+        Attachment_quay = 46.931, 30.876, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_12
+    [line_no_13]
+        Unstretch_length = 64.043794
+        Restoring_coeff = 258036.84681, 227317.248481, -36471.526827
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = -108.113, 23.146, 12.005
+        Attachment_quay = -45.531, 30.968, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_13
+    [line_no_14]
+        Unstretch_length = 64.245037
+        Restoring_coeff = 258089.805898, 226481.930592, -36308.690831
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = -108.38, 23.153, 12.005
+        Attachment_quay = -45.654, 31.459, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_14
+    [line_no_15]
+        Unstretch_length = 66.161192
+        Restoring_coeff = 258508.607977, 219379.313098, -34926.879815
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = -110.269, 23.146, 12.005
+        Attachment_quay = -45.649, 31.977, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_15
+    [line_no_16]
+        Unstretch_length = 35.515368
+        Restoring_coeff = 242197.673654, 364177.509508, -63375.12957
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = -131.504, 18.474, 6.505
+        Attachment_quay = -125.046, 53.75, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_16
+    [line_no_17]
+        Unstretch_length = 36.100995
+        Restoring_coeff = 242189.854846, 364229.050475, -63385.101759
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = -133.28, 18.178, 6.505
+        Attachment_quay = -125.561, 53.779, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_17
+    [line_no_18]
+        Unstretch_length = 37.471963
+        Restoring_coeff = 242372.641082, 363022.483707, -63151.574614
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = -135.512, 17.346, 6.505
+        Attachment_quay = -126.046, 53.96, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_18
+    [line_no_19]
+        Unstretch_length = 37.694723
+        Restoring_coeff = 256803.809446, 244298.016982, -39794.550393
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = -138.455, 16.218, 6.505
+        Attachment_quay = -144.596, 53.896, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_19
+    [line_no_20]
+        Unstretch_length = 38.179588
+        Restoring_coeff = 256807.112971, 244257.187003, -39786.534206
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = -140.561, 15.359, 6.505
+        Attachment_quay = -145.097, 53.758, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_20
+    [line_no_21]
+        Unstretch_length = 38.846098
+        Restoring_coeff = 256865.014013, 243538.413928, -39645.435066
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = -141.855, 14.607, 6.505
+        Attachment_quay = -145.616, 53.768, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_21
+    [line_no_22]
+        Unstretch_length = 49.950156
+        Restoring_coeff = 251877.533497, 293193.177323, -49443.858025
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = -147.208, 6.525, 6.505
+        Attachment_quay = -164.332, 54.077, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_22
+    [line_no_23]
+        Unstretch_length = 51.194734
+        Restoring_coeff = 252594.53025, 287017.50101, -48222.457169
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = -147.157, 5.128, 6.505
+        Attachment_quay = -164.787, 53.836, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_23
+    [line_no_24]
+        Unstretch_length = 52.596536
+        Restoring_coeff = 253386.913861, 279929.851772, -46820.802488
+        Damping_coeff = 0.0, 0.0
+        Attachment_ship = -147.157, 3.705, 6.505
+        Attachment_quay = -165.29, 53.739, 5.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_24
+  Endsect // lines
+
+  [FENDERS]
+   Number_fenders   =  4
+    [fender_no_1]
+        Restoring_coeff = 5492139.662524, 7560686.899651, -13640534.349808, 4781476.655997, -39727.902856
+        Damping_coeff = 0.0, 0.0
+        Friction_coeff = 0.05
+        Attachment_ship = 65.735, 22.634167, -1.845
+        Attachment_quay = 65.735, 22.64, 2.665
+        Fender_dir = 0.0, -1.0, 0.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_1
+    [fender_no_2]
+        Restoring_coeff = 5492139.662524, 7560686.899651, -13640534.349808, 4781476.655997, -39727.902856
+        Damping_coeff = 0.0, 0.0
+        Friction_coeff = 0.05
+        Attachment_ship = 45.735, 23.01, -1.845
+        Attachment_quay = 45.735, 23.01, 2.665
+        Fender_dir = 0.0, -1.0, 0.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_2
+    [fender_no_3]
+        Restoring_coeff = 5492139.662524, 7560686.899651, -13640534.349808, 4781476.655997, -39727.902856
+        Damping_coeff = 0.0, 0.0
+        Friction_coeff = 0.05
+        Attachment_ship = -44.265, 23.2, -1.845
+        Attachment_quay = -44.265, 23.2, 2.665
+        Fender_dir = 0.0, -1.0, 0.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_3
+    [fender_no_4]
+        Restoring_coeff = 5492139.662524, 7560686.899651, -13640534.349808, 4781476.655997, -39727.902856
+        Damping_coeff = 0.0, 0.0
+        Friction_coeff = 0.05
+        Attachment_ship = -64.264, 23.2, -1.845
+        Attachment_quay = -64.264, 23.2, 2.665
+        Fender_dir = 0.0, -1.0, 0.0
+        Attached_to_body = 1, 0
+    Endsect // line_no_4
+  Endsect // FENDERS
+
+  [POSTS]
+Number_posts = 0
+  Endsect // POSTS
+    [CHAINS]
+Number_chains = 0
+    Endsect // CHAINS
+  Endsect // Mooring system
+
+  [INCLUDE_VISCOUS_DAMPING]
+         Type_of_damping = 0   // 0: no damping; 1: Full model; 2: Simple model
+         FILE_NAME = |.\full_model_ascii.vdf|
+         Reynolds_number = 1.000000e+005
+         Form_factor_k = 2.0
+         Drag_coefficient_Cd = 3.0
+  Endsect // Include_viscous_damping
+
+ [Output_Specifications]
+FILE_NAME = |.\out\Results.dfs0|
+Title = 'This is the channel test of the PFS-file standard for DVRE'
+  EndSect  // Output_Specifications
+EndSect  // MIKE_DVRE

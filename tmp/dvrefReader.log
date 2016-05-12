@@ -1,0 +1,11 @@
+                                                            20160308
+                                                            100859
+ g_handle OK if rc = 0: rc =            0
+
+
+======================================================================
+Target: MIKE_DVRE
+
+ g_target pfs-style if rc = 0: rc =           -1
+ Error: No valid DVRS license. DynamicVRengine.exe stops !!
+Abnormal completion

@@ -1,0 +1,34 @@
+================================================================================
+= MzTxStat: Program for calculating statistics on timeseries
+================================================================================
+
+------- Input file ---------------------------------
+		FileName : C:\Users\rlh.PRDW\Dropbox\Scripts\Python\DVRS\preprocess\Results_motions.dfs0
+		Items:  2, 3, 4, 5, 6, 7, 
+
+------- Timeseries info ----------------------------
+		First Time Step: 4798
+		Last Time Step : 41998
+
+------- Reference level ----------------------------
+		Reference Level Type: 1
+		Reference Level Constant Value: 0.000000
+		Reference Level File : 
+		Use Lower level reference limit : 0
+		Lower level reference limit : 0.000000
+		Use Upper level reference limit : 0
+		Upper level reference limit : 0.000000
+------- Value exceedance limit----------------------
+		Use Lower limit exceedance : 0
+		Lower limit value : 0.000000
+		Use Upper limit exceedance : 0
+		Upper limit limit : 0.000000
+ERROR: in input file selection
+
+--------------- RUN TIME INFORMATION --------------
+--
+-- CPU time        : 2 [s]
+--
+-- Completion code : Abnormal
+--
+---------------------------------------------------

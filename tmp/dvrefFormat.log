@@ -1,0 +1,2141 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.20)  19 JAN 2016 22:52
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/Users/rhydarharris/Dropbox/Scripts/Python/DVRS/dvrefFormat.py
+(/Users/rhydarharris/Dropbox/Scripts/Python/DVRS/dvrefFormat.py
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 79 languages loaded.
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 c
+     lass Line(object):
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.3 	def _
+          _init__(self,name):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+! Missing { inserted.
+<to be read again> 
+                   _
+l.3 	def __
+           init__(self,name):
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.3 	def __init__
+                 (self,name):
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.5 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.5 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.5 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--5
+[]
+ []
+
+
+Overfull \hbox (111.61972pt too wide) in paragraph at lines 1--5
+[]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 	@
+      property
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.7 	def Unstretch_
+                   length(self):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.13 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 6--13
+[]
+ []
+
+
+Overfull \hbox (60.05913pt too wide) in paragraph at lines 6--13
+[]\OML/cmm/m/it/10 ength\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 self\OT1/cmr/m/n/10 )
+ :
+ []
+
+
+Overfull \hbox (19.21758pt too wide) in paragraph at lines 6--13
+\OML/cmm/m/it/10 try \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (224.63338pt too wide) in paragraph at lines 6--13
+\OML/cmm/m/it/10 returnself:[]nstretch[]engthexceptAttributeError \OT1/cmr/m/n/
+10 :
+ []
+
+
+Overfull \hbox (103.64862pt too wide) in paragraph at lines 6--13
+\OML/cmm/m/it/10 self:[]nstretch[]ength \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (147.29697pt too wide) in paragraph at lines 6--13
+\OML/cmm/m/it/10 Nonereturnself:[]nstretch[]ength$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 	@
+       Unstretch_length.setter
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.14 	@Unstretch_
+                 length.setter
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.17 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (226.21822pt too wide) in paragraph at lines 14--17
+[]$[]\OML/cmm/m/it/10 ength:setterdefUnstretch[]ength\OT1/cmr/m/n/10 (\OML/cmm/
+m/it/10 self; value\OT1/cmr/m/n/10 ) :
+ []
+
+
+Overfull \hbox (103.64862pt too wide) in paragraph at lines 14--17
+\OML/cmm/m/it/10 self:[]nstretch[]ength \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (24.05331pt too wide) in paragraph at lines 14--17
+\OML/cmm/m/it/10 value$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 	@
+       property
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.19 	def Restoring_
+                    coeff(self):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.25 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 18--25
+[]
+ []
+
+
+Overfull \hbox (57.35165pt too wide) in paragraph at lines 18--25
+[]\OML/cmm/m/it/10 oeff\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 self\OT1/cmr/m/n/10 ) 
+:
+ []
+
+
+Overfull \hbox (19.21758pt too wide) in paragraph at lines 18--25
+\OML/cmm/m/it/10 try \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (221.14958pt too wide) in paragraph at lines 18--25
+\OML/cmm/m/it/10 returnself:[]estoring[]oeffexceptAttributeError \OT1/cmr/m/n/1
+0 :
+ []
+
+
+Overfull \hbox (100.16483pt too wide) in paragraph at lines 18--25
+\OML/cmm/m/it/10 self:[]estoring[]oeff \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (124.73793pt too wide) in paragraph at lines 18--25
+\OT1/cmr/m/n/10 []\OML/cmm/m/it/10 returnself:[]estoring[]oeff$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 	@
+       Restoring_coeff.setter
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.26 	@Restoring_
+                 coeff.setter
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.29 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (219.36162pt too wide) in paragraph at lines 26--29
+[]$[]\OML/cmm/m/it/10 oeff:setterdefRestoring[]oeff\OT1/cmr/m/n/10 (\OML/cmm/m/
+it/10 self; value\OT1/cmr/m/n/10 ) :
+ []
+
+
+Overfull \hbox (100.16483pt too wide) in paragraph at lines 26--29
+\OML/cmm/m/it/10 self:[]estoring[]oeff \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (24.05331pt too wide) in paragraph at lines 26--29
+\OML/cmm/m/it/10 value$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 	@
+       property
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.31 	def Damping_
+                  coeff(self):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.37 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 30--37
+[]
+ []
+
+
+Overfull \hbox (57.35165pt too wide) in paragraph at lines 30--37
+[]\OML/cmm/m/it/10 oeff\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 self\OT1/cmr/m/n/10 ) 
+:
+ []
+
+
+Overfull \hbox (19.21758pt too wide) in paragraph at lines 30--37
+\OML/cmm/m/it/10 try \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (218.34906pt too wide) in paragraph at lines 30--37
+\OML/cmm/m/it/10 returnself:[]amping[]oeffexceptAttributeError \OT1/cmr/m/n/10 
+:
+ []
+
+
+Overfull \hbox (97.3643pt too wide) in paragraph at lines 30--37
+\OML/cmm/m/it/10 self:[]amping[]oeff \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (121.93741pt too wide) in paragraph at lines 30--37
+\OT1/cmr/m/n/10 []\OML/cmm/m/it/10 returnself:[]amping[]oeff$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 	@
+       Damping_coeff.setter
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.38 	@Damping_
+               coeff.setter
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.41 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (216.75421pt too wide) in paragraph at lines 38--41
+[]$[]\OML/cmm/m/it/10 oeff:setterdefDamping[]oeff\OT1/cmr/m/n/10 (\OML/cmm/m/it
+/10 self; value\OT1/cmr/m/n/10 ) :
+ []
+
+
+Overfull \hbox (97.3643pt too wide) in paragraph at lines 38--41
+\OML/cmm/m/it/10 self:[]amping[]oeff \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (24.05331pt too wide) in paragraph at lines 38--41
+\OML/cmm/m/it/10 value$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 	@
+       property
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.43 	def Attachment_
+                     ship(self):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.52 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 42--52
+[]
+ []
+
+
+Overfull \hbox (50.34218pt too wide) in paragraph at lines 42--52
+[]\OML/cmm/m/it/10 hip\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 self\OT1/cmr/m/n/10 ) :
+
+ []
+
+
+Overfull \hbox (19.21758pt too wide) in paragraph at lines 42--52
+\OML/cmm/m/it/10 try \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (222.93242pt too wide) in paragraph at lines 42--52
+\OML/cmm/m/it/10 returnself:[]ttachment[]hipexceptAttributeError \OT1/cmr/m/n/1
+0 :
+ []
+
+
+Overfull \hbox (101.94766pt too wide) in paragraph at lines 42--52
+\OML/cmm/m/it/10 self:[]ttachment[]hip \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (382.01228pt too wide) in paragraph at lines 42--52
+\OT1/cmr/m/n/10 []\OML/cmm/m/it/10 returnself:[]ttachment[]hip\OT1/cmr/m/n/10 @
+\OML/cmm/m/it/10 Attachment[]hip:setterdefAttachment[]hip\OT1/cmr/m/n/10 (\OML/
+cmm/m/it/10 self; value\OT1/cmr/m/n/10 ) :
+ []
+
+
+Overfull \hbox (101.94766pt too wide) in paragraph at lines 42--52
+\OML/cmm/m/it/10 self:[]ttachment[]hip \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (24.05331pt too wide) in paragraph at lines 42--52
+\OML/cmm/m/it/10 value$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 	@
+       property
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.54 	def Attachment_
+                     quay(self):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.63 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 53--63
+[]
+ []
+
+
+Overfull \hbox (52.5183pt too wide) in paragraph at lines 53--63
+[]\OML/cmm/m/it/10 uay\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 self\OT1/cmr/m/n/10 ) :
+
+ []
+
+
+Overfull \hbox (19.21758pt too wide) in paragraph at lines 53--63
+\OML/cmm/m/it/10 try \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (225.10854pt too wide) in paragraph at lines 53--63
+\OML/cmm/m/it/10 returnself:[]ttachment[]uayexceptAttributeError \OT1/cmr/m/n/1
+0 :
+ []
+
+
+Overfull \hbox (104.12378pt too wide) in paragraph at lines 53--63
+\OML/cmm/m/it/10 self:[]ttachment[]uay \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (388.54063pt too wide) in paragraph at lines 53--63
+\OT1/cmr/m/n/10 []\OML/cmm/m/it/10 returnself:[]ttachment[]uay\OT1/cmr/m/n/10 @
+\OML/cmm/m/it/10 Attachment[]uay:setterdefAttachment[]uay\OT1/cmr/m/n/10 (\OML/
+cmm/m/it/10 self; value\OT1/cmr/m/n/10 ) :
+ []
+
+
+Overfull \hbox (104.12378pt too wide) in paragraph at lines 53--63
+\OML/cmm/m/it/10 self:[]ttachment[]uay \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (24.05331pt too wide) in paragraph at lines 53--63
+\OML/cmm/m/it/10 value$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64 	@
+       property
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.65 	def Attached_
+                   to_body(self):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.74 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 64--74
+[]
+ []
+
+
+Overfull \hbox (59.52832pt too wide) in paragraph at lines 64--74
+[]\OML/cmm/m/it/10 o[]ody\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 self\OT1/cmr/m/n/10 
+) :
+ []
+
+
+Overfull \hbox (19.21758pt too wide) in paragraph at lines 64--74
+\OML/cmm/m/it/10 try \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (218.92982pt too wide) in paragraph at lines 64--74
+\OML/cmm/m/it/10 returnself:[]ttached[]o[]odyexceptAttributeError \OT1/cmr/m/n/
+10 :
+ []
+
+
+Overfull \hbox (97.94507pt too wide) in paragraph at lines 64--74
+\OML/cmm/m/it/10 self:[]ttached[]o[]ody \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (389.07974pt too wide) in paragraph at lines 64--74
+\OML/cmm/m/it/10 Nonereturnself:[]ttached[]o[]ody\OT1/cmr/m/n/10 @\OML/cmm/m/it
+/10 Attached[]o[]ody:setterdefAttached[]o[]ody\OT1/cmr/m/n/10 (\OML/cmm/m/it/10
+ self; value\OT1/cmr/m/n/10 ) :
+ []
+
+
+Overfull \hbox (97.94507pt too wide) in paragraph at lines 64--74
+\OML/cmm/m/it/10 self:[]ttached[]o[]ody \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (24.05331pt too wide) in paragraph at lines 64--74
+\OML/cmm/m/it/10 value$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75 c
+      lass Lines(list):
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.77 	def _
+           _init__(self,Number_lines):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.77 	def __
+            init__(self,Number_lines):
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.77 	def __init__
+                  (self,Number_lines):
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.79 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.79 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.79 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 75--79
+[]
+ []
+
+
+Overfull \hbox (186.95091pt too wide) in paragraph at lines 75--79
+[]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 c
+      lass Fender(object):
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.82 	def _
+           _init__(self,name):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.82 	def __
+            init__(self,name):
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.82 	def __init__
+                  (self,name):
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.84 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.84 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.84 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 80--84
+[]
+ []
+
+
+Overfull \hbox (111.61972pt too wide) in paragraph at lines 80--84
+[]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.85 	@
+       property
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.86 	def Restoring_
+                    coeff(self):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.155 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 85--155
+[]
+ []
+
+
+Overfull \hbox (57.35165pt too wide) in paragraph at lines 85--155
+[]\OML/cmm/m/it/10 oeff\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 self\OT1/cmr/m/n/10 ) 
+:
+ []
+
+
+Overfull \hbox (19.21758pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 try \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (221.14958pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 returnself:[]estoring[]oeffexceptAttributeError \OT1/cmr/m/n/1
+0 :
+ []
+
+
+Overfull \hbox (100.16483pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 self:[]estoring[]oeff \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (376.35614pt too wide) in paragraph at lines 85--155
+\OT1/cmr/m/n/10 []\OML/cmm/m/it/10 returnself:[]estoring[]oeff\OT1/cmr/m/n/10 @
+\OML/cmm/m/it/10 Restoring[]oeff:setterdefRestoring[]oeff\OT1/cmr/m/n/10 (\OML/
+cmm/m/it/10 self; value\OT1/cmr/m/n/10 ) :
+ []
+
+
+Overfull \hbox (100.16483pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 self:[]estoring[]oeff \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (184.90498pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 value\OT1/cmr/m/n/10 @\OML/cmm/m/it/10 propertydefDamping[]oef
+f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 self\OT1/cmr/m/n/10 ) :
+ []
+
+
+Overfull \hbox (19.21758pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 try \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (218.34906pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 returnself:[]amping[]oeffexceptAttributeError \OT1/cmr/m/n/10 
+:
+ []
+
+
+Overfull \hbox (97.3643pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 self:[]amping[]oeff \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (368.3408pt too wide) in paragraph at lines 85--155
+\OT1/cmr/m/n/10 []\OML/cmm/m/it/10 returnself:[]amping[]oeff\OT1/cmr/m/n/10 @\O
+ML/cmm/m/it/10 Damping[]oeff:setterdefDamping[]oeff\OT1/cmr/m/n/10 (\OML/cmm/m/
+it/10 self; value\OT1/cmr/m/n/10 ) :
+ []
+
+
+Overfull \hbox (97.3643pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 self:[]amping[]oeff \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (181.32094pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 value\OT1/cmr/m/n/10 @\OML/cmm/m/it/10 propertydefFriction[]oe
+ff\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 self\OT1/cmr/m/n/10 ) :
+ []
+
+
+Overfull \hbox (19.21758pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 try \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (214.89668pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 returnself:[]riction[]oeffexceptAttributeError \OT1/cmr/m/n/10
+ :
+ []
+
+
+Overfull \hbox (93.91193pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 self:[]riction[]oeff \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (357.72034pt too wide) in paragraph at lines 85--155
+\OT1/cmr/m/n/10 []\OML/cmm/m/it/10 returnself:[]riction[]oeff\OT1/cmr/m/n/10 @\
+OML/cmm/m/it/10 Friction[]oeff:setterdefFriction[]oeff\OT1/cmr/m/n/10 (\OML/cmm
+/m/it/10 self; value\OT1/cmr/m/n/10 ) :
+ []
+
+
+Overfull \hbox (93.91193pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 self:[]riction[]oeff \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (189.17126pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 value\OT1/cmr/m/n/10 @\OML/cmm/m/it/10 propertydefAttachment[]
+hip\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 self\OT1/cmr/m/n/10 ) :
+ []
+
+
+Overfull \hbox (19.21758pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 try \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (222.93242pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 returnself:[]ttachment[]hipexceptAttributeError \OT1/cmr/m/n/1
+0 :
+ []
+
+
+Overfull \hbox (101.94766pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 self:[]ttachment[]hip \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (382.01228pt too wide) in paragraph at lines 85--155
+\OT1/cmr/m/n/10 []\OML/cmm/m/it/10 returnself:[]ttachment[]hip\OT1/cmr/m/n/10 @
+\OML/cmm/m/it/10 Attachment[]hip:setterdefAttachment[]hip\OT1/cmr/m/n/10 (\OML/
+cmm/m/it/10 self; value\OT1/cmr/m/n/10 ) :
+ []
+
+
+Overfull \hbox (101.94766pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 self:[]ttachment[]hip \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (191.34738pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 value\OT1/cmr/m/n/10 @\OML/cmm/m/it/10 propertydefAttachment[]
+uay\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 self\OT1/cmr/m/n/10 ) :
+ []
+
+
+Overfull \hbox (19.21758pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 try \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (225.10854pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 returnself:[]ttachment[]uayexceptAttributeError \OT1/cmr/m/n/1
+0 :
+ []
+
+
+Overfull \hbox (104.12378pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 self:[]ttachment[]uay \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (388.54063pt too wide) in paragraph at lines 85--155
+\OT1/cmr/m/n/10 []\OML/cmm/m/it/10 returnself:[]ttachment[]uay\OT1/cmr/m/n/10 @
+\OML/cmm/m/it/10 Attachment[]uay:setterdefAttachment[]uay\OT1/cmr/m/n/10 (\OML/
+cmm/m/it/10 self; value\OT1/cmr/m/n/10 ) :
+ []
+
+
+Overfull \hbox (104.12378pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 self:[]ttachment[]uay \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (163.26pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 value\OT1/cmr/m/n/10 @\OML/cmm/m/it/10 propertydefFender[]ir\O
+T1/cmr/m/n/10 (\OML/cmm/m/it/10 self\OT1/cmr/m/n/10 ) :
+ []
+
+
+Overfull \hbox (19.21758pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 try \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (196.83574pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 returnself:[]ender[]irexceptAttributeError \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (75.85098pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 self:[]ender[]ir \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (303.5375pt too wide) in paragraph at lines 85--155
+\OT1/cmr/m/n/10 []\OML/cmm/m/it/10 returnself:[]ender[]ir\OT1/cmr/m/n/10 @\OML/
+cmm/m/it/10 Fender[]ir:setterdefFender[]ir\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 sel
+f; value\OT1/cmr/m/n/10 ) :
+ []
+
+
+Overfull \hbox (75.85098pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 self:[]ender[]ir \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (185.16867pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 value\OT1/cmr/m/n/10 @\OML/cmm/m/it/10 propertydefAttached[]o[
+]ody\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 self\OT1/cmr/m/n/10 ) :
+ []
+
+
+Overfull \hbox (19.21758pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 try \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (218.92982pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 returnself:[]ttached[]o[]odyexceptAttributeError \OT1/cmr/m/n/
+10 :
+ []
+
+
+Overfull \hbox (97.94507pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 self:[]ttached[]o[]ody \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (370.0045pt too wide) in paragraph at lines 85--155
+\OT1/cmr/m/n/10 []\OML/cmm/m/it/10 returnself:[]ttached[]o[]ody\OT1/cmr/m/n/10 
+@\OML/cmm/m/it/10 Attached[]o[]ody:setterdefAttached[]o[]ody\OT1/cmr/m/n/10 (\O
+ML/cmm/m/it/10 self; value\OT1/cmr/m/n/10 ) :
+ []
+
+
+Overfull \hbox (97.94507pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 self:[]ttached[]o[]ody \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (24.05331pt too wide) in paragraph at lines 85--155
+\OML/cmm/m/it/10 value$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.156 c
+       lass Fenders(list):
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.158 	def _
+            _init__(self,Number_fenders):
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.158 	def __
+             init__(self,Number_fenders):
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.158 	def __init__
+                   (self,Number_fenders):
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.160 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.160 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.160 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 156--160
+[]
+ []
+
+
+Overfull \hbox (215.61502pt too wide) in paragraph at lines 156--160
+[]$ 
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.161 #
+       class Option_Parameters:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.161 #c
+        lass Option_Parameters:
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.161 #class Option_
+                    Parameters:
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.162 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 161--162
+[]
+ []
+
+
+Overfull \hbox (58.765pt too wide) in paragraph at lines 161--162
+[]\OML/cmm/m/it/10 arameters \OT1/cmr/m/n/10 :$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.164 i
+       f __name__ == '__main__':
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.164 if _
+          _name__ == '__main__':
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.164 if __
+           name__ == '__main__':
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.164 if __name__
+                  == '__main__':
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.164 if __name__ == '__
+                        main__':
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.164 if __name__ == '__main__
+                              ':
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing { inserted.
+<to be read again> 
+                   ^
+l.164 if __name__ == '__main__'
+                               :
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.170 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.170 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.170 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.170 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.170 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.170 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 164--170
+[]
+ []
+
+
+Overfull \hbox (486.33597pt too wide) in paragraph at lines 164--170
+[]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.171 	l
+        ines = Lines(24)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.172 	print lines.Number_
+                          lines
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.173 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 171--173
+[]
+ []
+
+
+Overfull \hbox (21.8607pt too wide) in paragraph at lines 171--173
+[]\OML/cmm/m/it/10 ines$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.174 	l
+        ine_no_1 = Line("line_no1")
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.174 	line_
+            no_1 = Line("line_no1")
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.181 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (45.3322pt too wide) in paragraph at lines 174--181
+[]$[]\OML/cmm/m/it/10 o[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (190.25046pt too wide) in paragraph at lines 174--181
+\OML/cmm/m/it/10 Line\OT1/cmr/m/n/10 ("\OML/cmm/m/it/10 line[]o\OT1/cmr/m/n/10 
+1")\OML/cmm/m/it/10 line[]o[]:Unstretch[]ength \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (158.17276pt too wide) in paragraph at lines 174--181
+\OT1/cmr/m/n/10 56\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 391392\OML/cmm/m/it/10 line
+[]o[]:Restoring[]oeff \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (303.34349pt too wide) in paragraph at lines 174--181
+\OT1/cmr/m/n/10 [135740\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 55413\OML/cmm/m/it/10 
+; \OT1/cmr/m/n/10 116559\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 17813\OML/cmm/m/it/10
+ ; \OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 9215\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 31
+1887]\OML/cmm/m/it/10 line[]o[]:Damping[]oeff \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (152.60934pt too wide) in paragraph at lines 174--181
+\OT1/cmr/m/n/10 [0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cm
+r/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 0]\OML/cmm/m/it/10 line[]o[]:Attach
+ment[]hip \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (214.7856pt too wide) in paragraph at lines 174--181
+\OT1/cmr/m/n/10 [146\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 551\OML/cmm/m/it/10 ; \OM
+S/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 576\OML/cmm
+/m/it/10 ; \OT1/cmr/m/n/10 7\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 52]\OML/cmm/m/it/
+10 line[]o[]:Attachment[]uay \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (200.82909pt too wide) in paragraph at lines 174--181
+\OT1/cmr/m/n/10 [165\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 752\OML/cmm/m/it/10 ; \OT
+1/cmr/m/n/10 53\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 646\OML/cmm/m/it/10 ; \OT1/cmr
+/m/n/10 7\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 0]\OML/cmm/m/it/10 line[]o[]:Attache
+d[]o[]ody \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (20.00002pt too wide) in paragraph at lines 174--181
+\OT1/cmr/m/n/10 [1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.182 	l
+        ines.append(line_no_1)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.182 	lines.append(line_
+                         no_1)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.184 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (164.24313pt too wide) in paragraph at lines 182--184
+[]$[]\OML/cmm/m/it/10 o[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 printlines\OT1/cmr/m
+/n/10 [0]\OML/cmm/m/it/10 :Damping[]oeff$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.185 	f
+        enders = Fenders(4)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no ) in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 185--186
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.187 	f
+        ender_no_1 = Fender("fender_no_1")
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.187 	fender_
+              no_1 = Fender("fender_no_1")
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.195 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (45.3322pt too wide) in paragraph at lines 187--195
+[]$[]\OML/cmm/m/it/10 o[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (225.8008pt too wide) in paragraph at lines 187--195
+\OML/cmm/m/it/10 Fender\OT1/cmr/m/n/10 ("\OML/cmm/m/it/10 fender[]o[]\OT1/cmr/m
+/n/10 ")\OML/cmm/m/it/10 fender[]o[]:Restoring[]oeff \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (499.28545pt too wide) in paragraph at lines 187--195
+\OT1/cmr/m/n/10 [1748122\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 64928\OML/cmm/m/it/10
+ ; \OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 3380753\OML/cmm/m/it/10 :\OT1/cmr/m/n/10
+ 827608\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 6717319\OML/cmm/m/it/10 :\OT1/cmr/m/n
+/10 817372\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 4629984\OML/cm
+m/m/it/10 :\OT1/cmr/m/n/10 640707\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1263226\OML
+/cmm/m/it/10 :\OT1/cmr/m/n/10 780136]\OML/cmm/m/it/10 fender[]o[]:Damping[]oeff
+ \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (158.47829pt too wide) in paragraph at lines 187--195
+\OT1/cmr/m/n/10 [0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cm
+r/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 0]\OML/cmm/m/it/10 fender[]o[]:Fric
+tion[]oeff \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (143.55081pt too wide) in paragraph at lines 187--195
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 fender[]o[
+]:Attachment[]hip \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (231.28265pt too wide) in paragraph at lines 187--195
+\OT1/cmr/m/n/10 [\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 48\OML/cmm/m/it/10 :\OT1/c
+mr/m/n/10 023\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 23\OML/cmm/m/it/10 :\OT1/cmr/m/
+n/10 05\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 3\OML/cmm/m/it/10
+ :\OT1/cmr/m/n/10 18]\OML/cmm/m/it/10 fender[]o[]:Attachment[]uay \OT1/cmr/m/n/
+10 =
+ []
+
+
+Overfull \hbox (185.41743pt too wide) in paragraph at lines 187--195
+\OT1/cmr/m/n/10 [\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 49\OML/cmm/m/it/10 :\OT1/c
+mr/m/n/10 273\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 23\OML/cmm/m/it/10 :\OT1/cmr/m/
+n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 8]\
+OML/cmm/m/it/10 fender[]o[]:Fender[]ir \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (187.32605pt too wide) in paragraph at lines 187--195
+\OT1/cmr/m/n/10 [0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OMS/cm
+sy/m/n/10 ^^@\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 0\OML/cmm/m/it/
+10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 0]\OML/cmm/m/it/10 fend
+er[]o[]:Attached[]o[]ody \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (20.00002pt too wide) in paragraph at lines 187--195
+\OT1/cmr/m/n/10 [1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0]$ 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.195 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.196 	f
+        enders.append(fender_no_1)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.196 	fenders.append(fender_
+                             no_1)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (156.5952pt too wide) in paragraph at lines 196--198
+[]$[]\OML/cmm/m/it/10 o[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 printfenders\OT1/cmr
+/m/n/10 [0]\OML/cmm/m/it/10 :Fender[]ir$ 
+ []
+
+)
+! Emergency stop.
+<*> .../Dropbox/Scripts/Python/DVRS/dvrefFormat.py
+                                                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 13 strings out of 493054
+ 450 string characters out of 6134759
+ 64672 words of memory out of 5000000
+ 3631 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 18i,7n,12p,177b,113s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

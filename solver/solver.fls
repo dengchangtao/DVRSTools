@@ -1,0 +1,10 @@
+PWD /Users/rhydarharris/Dropbox/Scripts/Python/DVRS/solver
+INPUT /usr/local/texlive/2015/texmf.cnf
+INPUT /usr/local/texlive/2015/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/rhydarharris/Dropbox/Scripts/Python/DVRS/solver/solver.py
+OUTPUT /Users/rhydarharris/Dropbox/Scripts/Python/DVRS/solver/solver.log
+INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/base/omlcmr.fd
+INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/base/omlcmr.fd
+OUTPUT /Users/rhydarharris/Dropbox/Scripts/Python/DVRS/solver/solver.pdf
+INPUT /usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map
