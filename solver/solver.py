@@ -9,7 +9,9 @@ from itertools import product
 import linecache
 import matplotlib as plt
 import math
-
+"""
+This solves 5 DOF interpolation.
+"""
 def readMetocean(metoceanfile):
 	"""
 	Read into pandas dataframe a tab delimited metocean file format from 
